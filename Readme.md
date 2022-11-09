@@ -1,2 +1,2 @@
 GUI of Employee Management System
-https://ibb.co/W5cZXNx
+![My Remote Image](https://ibb.co/W5cZXNx)
