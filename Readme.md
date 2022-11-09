@@ -1,3 +1,4 @@
-GUI of Employee Management System.
+GUI of Employee Management System
+![Uploading gui.png…]()
 
-![Uploading Screenshot 2022-11-09 160909.png…]()
+
