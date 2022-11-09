@@ -1,2 +1,3 @@
-GUI of Employee Management System
-![GUI](https://ibb.co/W5cZXNx)
+GUI of Employee Management System.
+
+![Uploading Screenshot 2022-11-09 160909.png…]()
